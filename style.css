@@ -1,0 +1,17 @@
+h1 {
+    color:purple;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: bisque;
+}
+
+canvas{
+    background-color: aliceblue;
+    padding: 0%;
+    margin: auto;
+    margin-bottom: 1rem;
+    display: block;
+}
